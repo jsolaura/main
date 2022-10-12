@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/main/static/css/main.bddca447.css",
+    "main.js": "/main/static/js/main.3a567f19.js",
+    "static/media/mainM.svg": "/main/static/media/mainM.5f5b873dcb18734173788892ea749a5e.svg",
+    "static/media/mainR.svg": "/main/static/media/mainR.d658b42572b0caf639a4225c89ba42fe.svg",
+    "static/media/mainR.png": "/main/static/media/mainR.856ba1bdf61a5945bf3e.png",
+    "static/media/mainM.png": "/main/static/media/mainM.812096a671ef309e46be.png",
+    "static/media/cursor.svg": "/main/static/media/cursor.0c06971adb1a5b44fa90.svg",
+    "static/media/mainL.svg": "/main/static/media/mainL.dcb4559c02d98f37e7da704324472b9a.svg",
+    "static/media/mainL.png": "/main/static/media/mainL.411170303673f1f37e79.png",
+    "static/media/qpicker-logo.svg": "/main/static/media/qpicker-logo.f3a0570ff11a330485c3ca7e13a7af53.svg",
+    "static/media/ticketKor.svg": "/main/static/media/ticketKor.99068be89d726c6f1c7efae6a68461b1.svg",
+    "static/media/instagram-icon.svg": "/main/static/media/instagram-icon.1eea82419d82aa562831.svg",
+    "static/media/my.svg": "/main/static/media/my.86ad240358c4f3687b4d.svg",
+    "index.html": "/main/index.html",
+    "static/media/arrow-down.svg": "/main/static/media/arrow-down.d5241697d6ac5f977e1d.svg",
+    "static/media/youtube-icon.svg": "/main/static/media/youtube-icon.2dbce3c8aaddb0ac8b88.svg",
+    "main.bddca447.css.map": "/main/static/css/main.bddca447.css.map",
+    "main.3a567f19.js.map": "/main/static/js/main.3a567f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bddca447.css",
+    "static/js/main.3a567f19.js"
+  ]
+}
